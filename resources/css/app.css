@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.tab-button.active h4 {
+    color: #ffffff; /* Tailwind Amber */
+    background-color: #f5a51a;
+    padding: 8px;
+    border-radius: 5px;
+}
